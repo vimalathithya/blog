@@ -1,2 +1,3 @@
 # blog
-blog site
+personal blog site
+blog.vimalathithya.in
