@@ -9,3 +9,4 @@ params.author='vimal athithya'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+    maxAge = "800h" 
