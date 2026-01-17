@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Dev Blogs'
+theme = 'smigle'
+params.description ='my personal dev posts'
+params.author='vimal athithya'
