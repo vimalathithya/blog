@@ -1,4 +1,4 @@
-baseURL = 'https://vimalathithya.github.io/blog/'
+baseURL = 'https://blog.athithya.workers.dev'
 languageCode = 'en-us'
 title = 'Dev Blogs'
 theme = 'smigle'
