@@ -4,3 +4,8 @@ title = 'Dev Blogs'
 theme = 'smigle'
 params.description ='my personal dev posts'
 params.author='vimal athithya'
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
